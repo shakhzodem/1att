@@ -1,0 +1,239 @@
+.head{
+    width: 100%;
+    height: 708px;
+}
+.head .navbar{
+    width:100% ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.head .navbar .sub-box{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.head .navbar .sub-box p{
+    font-size: 18px;
+    color: #6c6c6c;
+}
+.head .navbar .sub-box span{
+    font-size: 18px;
+    color: #6c6c6c;
+}
+.section{
+    width: 100%;
+    height: 700px;
+    background-image: url(image\ \(11\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.section .text .p1{
+    font-size: 14px;
+    color: #D77474;
+    font-weight: 700;
+}
+.section .text h1{
+    font-size: 48px;
+    color: #000000;
+    font-weight: 700;
+}
+.section .text .p2{
+    font-size: 16px;
+    color: #6c6c6c;
+}
+.section .text button{
+    width: 201px;
+    height: 62px;
+    background-color: #AC1313;
+    color: #FFFFFF;
+    font-size: 12px;
+    border: none;
+
+}
+
+.spach{
+    width: 100%;
+    height: 969px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around ;
+
+}
+.spach .porcelain{
+    width: 100%;
+    height: 117px;
+    text-align: center;
+}
+.spach .porcelain p{
+    font-size: 14px;
+    color: #D77474;
+    font-weight: 700;
+
+}
+.spach .porcelain h1{
+    font-size: 40px;
+    color: #000000;
+    font-weight: 700;
+}
+.spach .img{
+    display: flex;
+    justify-content: space-around;
+}
+.spach1 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.spach1 .text h1{
+    font-size: 29px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+
+}
+.spach1 .text p {
+    font-size: 14px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+}
+.spach1 .text1 h1{
+    font-size: 29px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+
+}
+.spach1 .text1 p {
+    font-size: 14px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+
+}
+.kuza{
+    width: 100%;
+    height: 1033px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+.kuza .kz-1{
+    width:100% ;
+    height: 224px;
+    display: flex;
+    justify-content: space-around;
+}
+.kuza .kz-1 .text1{
+    width:396px ;
+    height:204px ;
+
+}
+.kuza .kz-1 .text1 h1{
+    font-size: 24px;
+    font-weight: 700px;
+    color: #000000;
+}
+.kuza .kz-1 .text1 p{
+    font-size: 14px;
+    color: #6c6c6c;
+}
+.kuza .kz-1 .text1 h2{
+    font-size: 14px;
+    font-weight: 700px;
+    color: #000000;
+
+}
+.kuza .kz-1 .d1 {
+    width: 500px;
+    height:220px ;
+    background-color: #f5f5f5;
+}
+.kuza .kz-1 img{
+    position: absolute;
+    margin-top: -120px;
+    margin-left: -700px;
+}
+.kuza .kz-2 img{
+    position: absolute;
+    margin-top: -100px;
+    margin-right: -700px;
+}
+.kuza .kz-2{
+    width:100% ;
+    height: 248px;
+    display: flex;
+    justify-content: space-around;
+}
+.kuza .kz-2 .d2 {
+    width: 500px;
+    height:220px ;
+    background-color: #f5f5f5;
+}
+.kuza .kz-2 .text2{
+    width:396px ;
+    height:228px ;
+
+}
+.kuza .kz-2 .text2 h1{
+    font-size: 24px;
+    font-weight: 700px;
+    color: #000000;
+}
+.kuza .kz-2 .text2 p{
+    font-size: 14px;
+    color: #6c6c6c;
+}
+.kuza .kz-2 .text2 h2{
+    font-size: 14px;
+    font-weight: 700px;
+    color: #000000;
+
+}
+.rasmlar{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   align-items: center; 
+}
+.img1{
+    width: 28%;
+}
+.kuzalar .text p{
+    width:192px ;
+    height: 24px;
+    color: #D77474;
+    font-size: 14px;
+    font-weight:700;
+    margin-left:620px ;
+    text-align: center;
+}
+.kuzalar .text h1{
+    width: 372px;
+    height: 50px;
+    color: #000000;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 520px;
+    text-align: center;
+}
+.but button{
+    width: 214px;
+    height: 62px;
+    background-color: #AC1313;
+    font-size:12px ;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-left: 620px;
+    text-align: center;
+
+}
